@@ -3,3 +3,6 @@
 
 # database
 db.sqlite3
+
+# SECRET KEY
+SECRET_KEY.txt
