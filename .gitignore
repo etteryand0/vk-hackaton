@@ -1,0 +1,5 @@
+# cache
+/mytest/__pycache__
+
+# database
+db.sqlite3
