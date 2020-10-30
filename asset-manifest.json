@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.439b4a20.chunk.css",
-    "main.js": "/static/js/main.c84941d6.chunk.js",
-    "main.js.map": "/static/js/main.c84941d6.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ca63edf2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ca63edf2.js.map",
-    "static/css/2.6326594c.chunk.css": "/static/css/2.6326594c.chunk.css",
-    "static/js/2.5647f116.chunk.js": "/static/js/2.5647f116.chunk.js",
-    "static/js/2.5647f116.chunk.js.map": "/static/js/2.5647f116.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3d8cba1237a484d2a9ee981fa0cea954.js": "/precache-manifest.3d8cba1237a484d2a9ee981fa0cea954.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.6326594c.chunk.css.map": "/static/css/2.6326594c.chunk.css.map",
-    "static/css/main.439b4a20.chunk.css.map": "/static/css/main.439b4a20.chunk.css.map",
-    "static/js/2.5647f116.chunk.js.LICENSE.txt": "/static/js/2.5647f116.chunk.js.LICENSE.txt",
-    "static/media/persik.png": "/static/media/persik.4e1ec840.png"
+    "main.css": "//etteryand0.github.io/vk-hackaton/static/css/main.439b4a20.chunk.css",
+    "main.js": "//etteryand0.github.io/vk-hackaton/static/js/main.c84941d6.chunk.js",
+    "main.js.map": "//etteryand0.github.io/vk-hackaton/static/js/main.c84941d6.chunk.js.map",
+    "runtime-main.js": "//etteryand0.github.io/vk-hackaton/static/js/runtime-main.5c66a050.js",
+    "runtime-main.js.map": "//etteryand0.github.io/vk-hackaton/static/js/runtime-main.5c66a050.js.map",
+    "static/css/2.6326594c.chunk.css": "//etteryand0.github.io/vk-hackaton/static/css/2.6326594c.chunk.css",
+    "static/js/2.6580a5e8.chunk.js": "//etteryand0.github.io/vk-hackaton/static/js/2.6580a5e8.chunk.js",
+    "static/js/2.6580a5e8.chunk.js.map": "//etteryand0.github.io/vk-hackaton/static/js/2.6580a5e8.chunk.js.map",
+    "index.html": "//etteryand0.github.io/vk-hackaton/index.html",
+    "precache-manifest.578b4f2bb6b8f4c9231c925afaa1f6e4.js": "//etteryand0.github.io/vk-hackaton/precache-manifest.578b4f2bb6b8f4c9231c925afaa1f6e4.js",
+    "service-worker.js": "//etteryand0.github.io/vk-hackaton/service-worker.js",
+    "static/css/2.6326594c.chunk.css.map": "//etteryand0.github.io/vk-hackaton/static/css/2.6326594c.chunk.css.map",
+    "static/css/main.439b4a20.chunk.css.map": "//etteryand0.github.io/vk-hackaton/static/css/main.439b4a20.chunk.css.map",
+    "static/js/2.6580a5e8.chunk.js.LICENSE.txt": "//etteryand0.github.io/vk-hackaton/static/js/2.6580a5e8.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "//etteryand0.github.io/vk-hackaton/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca63edf2.js",
+    "static/js/runtime-main.5c66a050.js",
     "static/css/2.6326594c.chunk.css",
-    "static/js/2.5647f116.chunk.js",
+    "static/js/2.6580a5e8.chunk.js",
     "static/css/main.439b4a20.chunk.css",
     "static/js/main.c84941d6.chunk.js"
   ]
