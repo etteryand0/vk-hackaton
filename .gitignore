@@ -1,0 +1,8 @@
+# cache
+/mytest/__pycache__
+
+# database
+db.sqlite3
+
+# SECRET KEY
+SECRET_KEY.txt
