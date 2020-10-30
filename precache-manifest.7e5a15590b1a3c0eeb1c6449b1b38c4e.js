@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e4f4b4abd56fec1f7687a82b179c60a",
+    "revision": "e04f581ee8a087ee050691870df77eb3",
     "url": "/vk-hackaton/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-hackaton/static/css/2.6326594c.chunk.css"
   },
   {
-    "revision": "9d017b4d3dd64e475d0d",
+    "revision": "931088c14ac53d5e6288",
     "url": "/vk-hackaton/static/css/main.439b4a20.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk-hackaton/static/js/2.e9dac417.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d017b4d3dd64e475d0d",
-    "url": "/vk-hackaton/static/js/main.c84941d6.chunk.js"
+    "revision": "931088c14ac53d5e6288",
+    "url": "/vk-hackaton/static/js/main.5a936d31.chunk.js"
   },
   {
     "revision": "81d930601012f2b0c76c",
